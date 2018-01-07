@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Fabio Z Tessitore <fabioztessitore@gmail.com> -->
+<component type="desktop">
+    <id>com.github.fabioztessitore.learning_vala_hello.desktop</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello Again</name>
+    <summary>Proves that we can use Vala and Gtk</summary>
+    <description>
+        <p>A quick summary ...</p>
+    </description>
+    
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+        <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>
